@@ -4,5 +4,6 @@
 - Don’t be afraid of multiple apps. (Django tip)
 - Write for flexibility.
 - Build to distribute.
+-  Compared to development time, hardware is cheap.
 
 
