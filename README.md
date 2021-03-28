@@ -1,4 +1,4 @@
-![Dont kill my vibe](https://cdn.shopify.com/s/files/1/0368/7215/9369/products/Don_tkillmyvibeNeonSignRed_1390x1390.jpg)
+![Dont kill my vibe](https://ariel-baxter.s3.amazonaws.com/dontkillmyvibe.png)
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> 
