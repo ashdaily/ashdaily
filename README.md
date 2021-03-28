@@ -11,7 +11,7 @@
 
 ### Recently I have been working on Entreprise Apple Mobile Device Management software that helps businesses manage their Apple devices such as iPhone, Macbooks, iPad, Apple TV etc. 
 
-### In my spare time, I work on a personal project, [Turbocommerce](https://github.com/ashdaily/turbocommerce), my goal is to offer a free open source platform for people who want to sell their products online. 
+### In my spare time, I work on a hobby project, [Turbocommerce](https://github.com/ashdaily/turbocommerce), an open source e-commerce solution similar to shopify. 
 
 
 ### Some of the prophecies that have helped me become better at software engineering:
