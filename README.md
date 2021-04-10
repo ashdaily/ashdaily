@@ -12,8 +12,7 @@
 - Do one thing, and do it well.
 - Done is better than perfect.
 - Always find the root cause of the problems.
-- Do not shy away from reading source code of dependencies.
-- Write for flexibility.
+- Read source code.
+- Write for flexibility and distribution.
 - Write good test coverage.
-- Build to distribute.
 - Always keep refactoring code. 
