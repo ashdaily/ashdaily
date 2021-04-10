@@ -7,7 +7,7 @@
 
 ### In my spare time, I work on a hobby project, [Turbocommerce](https://github.com/ashdaily/turbocommerce), an open source e-commerce solution similar to shopify. 
 
-### Some of the prophecies that have helped me become better at software engineering:
+### Some tips that have helped me in software engineering:
 
 - Do one thing, and do it well.
 - Done is better than perfect.
