@@ -3,6 +3,8 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> 
 
+![counter](https://ens582o2g1aixgc.m.pipedream.net)
+
 ### Hey, I'm Ashish! I'm a Full Stack Software Engineer living in Tokyo, Japan. Born and raised in North India, I moved to Tokyo shortly after finishing university education to start my career as a Software Engineer. 
 
 ### In my spare time, I work on a hobby project, [Turbocommerce](https://github.com/ashdaily/turbocommerce), an open source e-commerce solution similar to shopify. 
