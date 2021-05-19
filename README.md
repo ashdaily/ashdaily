@@ -9,6 +9,9 @@
 
 ### In my spare time, I work on a hobby project, [Turbocommerce](https://github.com/ashdaily/turbocommerce), an open source e-commerce solution similar to shopify. 
 
+[![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashdaily)](https://github.com/ashdaily/github-readme-stats)
+
+
 ### Some tips that have helped me in software engineering:
 
 - Do one thing, and do it well.
