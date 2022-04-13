@@ -20,4 +20,4 @@
 - I seldom spend some time answering on stackoverflow to give back to community. I am currently at [Top 2%](https://stackoverflow.com/users/3753776/ash-singh) on stackoverflow.
 
 ### Contact 🤝
-✍️ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ashisawesome/) 
+- You can reach me out on [LinkedIn](https://www.linkedin.com/in/ashisawesome/) 
