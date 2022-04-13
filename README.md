@@ -17,6 +17,7 @@
 - I am mostly active in the Python Open Source ecosystem.
 - I spent a lot of time contributing to [Turbocommerce](https://github.com/ashdaily/turbcommerce)
 - I built a near real time casino slot machine data fetching software to expose the data on REST API which is used in a [iOS App](https://tamakoshiapp.com/ios.downloads) and [Android app](https://tamakoshiapp.com/android.downloads).
+- I seldom spend some time answering on stackoverflow to give back to community. I am currently at [Top 2%](https://stackoverflow.com/users/3753776/ash-singh) on stackoverflow.
 
 ### Contact 🤝
 ✍️ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ashisawesome/) 
