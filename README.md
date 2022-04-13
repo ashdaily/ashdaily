@@ -4,7 +4,7 @@
 
 ### Intro 👋 
 - Hi, I am Ashish a.k.a Ash/アシュ 
-- I am a Software Engineer @ Truelayer Limited, an Open Banking API provider based in London, UK.
+- I am a Software Engineer @ [Truelayer Limited](https://truelayer.com), an Open Banking API provider based in London, UK.
 - I live in London (UK 🇬🇧), born in India. 
 - I worked in Tokyo, Japan 🇯🇵 for more than 5 years, so majority of my Software Engineering experience comes from Japan.
 - My mother tongue is Hindi, I am fluent in English & can also speak some Japanese (日本語もできます).
