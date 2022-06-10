@@ -1,5 +1,3 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> 
-
 ![counter](https://ens582o2g1aixgc.m.pipedream.net)
 
 ### Intro 👋 
