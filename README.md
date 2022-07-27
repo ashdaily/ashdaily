@@ -1,14 +1,12 @@
 ![counter](https://ens582o2g1aixgc.m.pipedream.net)
 
 ### Intro 👋 
-- Hi, I am Ashish a.k.a Ash/アシュ 
 - I am a Software Engineer @ [Truelayer Limited](https://truelayer.com), an Open Banking API provider based in London, UK.
-- I live in London (UK 🇬🇧), born in India. 
-- I worked in Tokyo, Japan 🇯🇵 for more than 5 years, so majority of my Software Engineering experience comes from Japan.
-- My mother tongue is Hindi, I am fluent in English & can also speak some Japanese (日本語もできます).
+- Born in India, I live in London (UK 🇬🇧) now , I have also worked and lived in Japan as well. 
+- I speak a some Japanese, fluent English and native Hindi. 
 
 ### Work Experience 💪 
-- 7+ years of experience in full stack engineering, customer consulting and project management.
+- I have 7+ years of experience in full stack engineering, customer consulting and project management.
 - Proficient in writing clean, readable code covered with test driven development.
 
 ### Open Source 👨‍💻 
