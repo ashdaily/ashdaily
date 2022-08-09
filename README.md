@@ -1,7 +1,7 @@
 ![counter](https://ens582o2g1aixgc.m.pipedream.net)
 
 ### Intro 👋 
-- I am a Software Engineer @ [Truelayer Limited](https://truelayer.com), an Open Banking API provider based in London, UK.
+- Software Engineer @ [Truelayer Limited](https://truelayer.com), an Open Banking API provider based in London, UK.
 - Born in India, I live in London (UK 🇬🇧) now , I have also worked and lived in Japan as well. 
 - I speak a some Japanese, fluent English and native Hindi. 
 
