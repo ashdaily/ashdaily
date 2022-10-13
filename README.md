@@ -2,7 +2,7 @@
 
 ### Intro 👋 
 - Software Engineer @ [Truelayer Limited](https://truelayer.com), an Open Banking API provider based in London, UK.
-- Born in India 🇮🇳 , I live in London 🇬🇧 now , I have also worked and lived in Japan 🇯🇵 as well. 
+- Born in India 🇮🇳 , I live in London 🇬🇧 now , I have also lived in Tokyo 🇯🇵 for 5+ year as well. 
 - Speak some Japanese, fluent English and native Hindi. 
 
 ### Work Experience 💪 
