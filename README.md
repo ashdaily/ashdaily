@@ -1,5 +1,6 @@
 ![counter](https://ens582o2g1aixgc.m.pipedream.net)
-
+![](https://github.com/ashdaily/ashdaily/blob/main/generated/overview.svg)
+![](https://github.com/ashdaily/ashdaily/blob/main/generated/languages.svg)
 ---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashdaily&show_icons=true&theme=gotham" alt="ashdaily" />
 
@@ -14,7 +15,3 @@
 <a href="https://www.buymeacoffee.com/ashdaily" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
-
-
-![](https://github.com/ashdaily/ashdaily/blob/main/generated/overview.svg)
-![](https://github.com/ashdaily/ashdaily/blob/main/generated/languages.svg)
