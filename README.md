@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashdaily&show_icons=true&theme=gotham" alt="ashdaily" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ashdaily&show_icons=true&theme=gotham" alt="ashdaily" />
 
 ![](https://github.com/ashdaily/ashdaily/blob/main/generated/overview.svg)
 
