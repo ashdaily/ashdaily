@@ -16,5 +16,5 @@
 ---
 
 
-![](https://github.com/ashdaily/ashdaily/blob/master/generated/overview.svg)
-![](https://github.com/ashdaily/ashdaily/blob/master/generated/languages.svg)
+![](https://github.com/ashdaily/ashdaily/blob/main/generated/overview.svg)
+![](https://github.com/ashdaily/ashdaily/blob/main/generated/languages.svg)
