@@ -4,9 +4,10 @@
 
 [![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashdaily&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)](https://github.com/ashdaily/github-readme-stats)
 
-![](https://github.com/ashdaily/ashdaily/blob/main/generated/overview.svg)
+[//]: # (![]&#40;https://github.com/ashdaily/ashdaily/blob/main/generated/overview.svg&#41;)
 
-![](https://github.com/ashdaily/ashdaily/blob/main/generated/languages.svg)
+[//]: # ()
+[//]: # (![]&#40;https://github.com/ashdaily/ashdaily/blob/main/generated/languages.svg&#41;)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashdaily&size_weight=0&count_weight=1&langs_count=20&layout=compact)](https://github.com/ashdaily/github-readme-stats)
 ---
