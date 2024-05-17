@@ -308,6 +308,9 @@ Languages:
                      + owned_repos.get("nodes", []))
 
             for repo in repos:
+                if repo is None:
+                    continue
+
                 name = repo.get("nameWithOwner")
                 if name in self._repos or name in self._exclude_repos:
                     continue
@@ -445,6 +448,8 @@ Languages:
         additions = 0
         deletions = 0
         for repo in await self.repos:
+            if repo is None:
+                continue
             r = await self.queries.query_rest(f"/repos/{repo}/stats/contributors")
             for author_obj in r:
                 # Handle malformed response from the API by skipping this repo
