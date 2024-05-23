@@ -2,7 +2,6 @@
 
 ---
 
-[![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashdaily&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)](https://github.com/ashdaily/github-readme-stats)
 
 [//]: # (![]&#40;https://github.com/ashdaily/ashdaily/blob/main/generated/overview.svg&#41;)
 
