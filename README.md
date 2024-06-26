@@ -8,7 +8,7 @@
 [//]: # ()
 [//]: # (![]&#40;https://github.com/ashdaily/ashdaily/blob/main/generated/languages.svg&#41;)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashdaily&size_weight=0&count_weight=1&langs_count=20&layout=compact)](https://github.com/ashdaily/github-readme-stats)
+[//]: # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashdaily&size_weight=0&count_weight=1&langs_count=20&layout=compact)](https://github.com/ashdaily/github-readme-stats)
 ---
 
 ### Contact  📱
