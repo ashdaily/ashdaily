@@ -1,1 +1,1 @@
-[![Fun Stats](https://github-readme-stats-fast.vercel.app/api?username=ashdaily)](https://github.com/ashdaily/github-readme-stats-fast)
+[![Fun Stats](https://github-readme-stats-fast.vercel.app/api?username=ashdaily)](https://github.com/ashdaily/stats)
